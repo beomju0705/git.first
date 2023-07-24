@@ -1,3 +1,3 @@
-print('hello word')
-x = 'hello word'
+print('python word')
+x = 'python word'
 print(x)
